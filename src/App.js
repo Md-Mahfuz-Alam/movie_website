@@ -12,7 +12,7 @@ function App() {
   document.title='MahFlix '
   return (
    <>
-  <Heading/>
+  {/* <Heading/> */}
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='movie/:id' element={<SingleMovie/>}/>
