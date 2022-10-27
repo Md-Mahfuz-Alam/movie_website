@@ -1,8 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;500&family=Lora:wght@400;500&family=Poppins:wght@400;600&display=swap");
 
-/* plz subsribe to thapa technical channel 
-          https://www.youtube.com/thapatechnical
-         */
+
 
 * {
   margin: 0;
@@ -45,7 +43,7 @@ img {
   transition: all 0.3s linear;
 }
 
-/* resuable code  */
+
 .container {
   max-width: 140rem;
   margin: auto;
@@ -75,7 +73,7 @@ img {
   align-items: center;
 }
 
-/* search css  */
+
 .search-section {
   margin: auto;
   text-align: center;
@@ -102,7 +100,7 @@ input {
   font-size: 1.8rem;
 }
 
-/* Single Movie css code  */
+
 
 .movie-section {
   width: 100%;
@@ -202,9 +200,10 @@ a:hover img {
 
 .back-btn {
   padding: 1.2rem 3.6rem;
+  margin-bottom: 3rem;
 }
 
-/* responsive code   */
+
 @media (max-width: 1200px) {
   .container {
     margin: auto;
